@@ -8,7 +8,7 @@ With the magical a2wsgi Adapter, ZopeBoyAdvanced lets you LEVEL UP and mix Pytho
 ## 🎮 INSTALLATION — INSERT COIN
 
 ```bash
-pip install zope[standalone] a2wsgi fastapi uvicorn
+pip install zope[standalone] a2wsgi fastapi uvicorn paste
 ```
 
 ---
