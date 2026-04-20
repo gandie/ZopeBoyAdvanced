@@ -18,7 +18,7 @@ pip install zope[standalone] a2wsgi fastapi uvicorn
 Don’t start at Level 1 every time! Make your own Zope instance with this special cheat code:
 
 ```bash
-mkwsgiinstance -d zope/etc/ -u myzopeuser:supersecretpassword
+mkwsgiinstance -d zope/ -u myzopeuser:supersecretpassword
 ```
 
 Congrats, Player!  
